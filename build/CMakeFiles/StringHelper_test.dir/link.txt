@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/StringHelper_test.dir/StringHelper_test.cc.o CMakeFiles/StringHelper_test.dir/StringHelper.cc.o -o StringHelper_test  -lgtest -lgtest_main -lpthread 
